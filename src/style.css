@@ -97,18 +97,3 @@ h1 {
   padding: 2rem;
   text-align: center;
 }
-
-@media (prefers-color-scheme: light) {
-  :root {
-    --text-color: #213547;
-    --background-color: #ffffff;
-    --primary-color: #646cff;
-    --primary-color-active: #535bf2;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-}
